@@ -37,7 +37,7 @@ class ProductManager {
   const productManager = new ProductManager();
   
   productManager.addProduct({
-    title: "Producto 1",
+    title: "Seguro 1",
     description: "Descripción del producto 1",
     price: 10,
     code: "Palencia1234",
@@ -45,7 +45,7 @@ class ProductManager {
   });
   
   productManager.addProduct({
-    title: "Producto 2",
+    title: "Seguro 2",
     description: "Descripción del producto 2",
     price: 15,
     code: "Palencia5678",
